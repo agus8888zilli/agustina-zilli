@@ -1,0 +1,525 @@
+
+
+
+
+
+
+
+
+
+
+
+#musicayvideoclips { 
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 252, 252);
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: -1px;
+
+}
+
+#parquesoñado { 
+width: 500px;
+height: 300px;
+position: absolute;
+top: 150px; 
+left: 8%;
+display: flex;
+flex-wrap: wrap
+}
+
+#comoeseso {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    right: 8%;; 
+    top: 150px;
+    display: flex;
+    flex-wrap: wrap
+}
+
+#nike {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    right: 8%;; 
+    top: 550px;
+    display: flex;
+    flex-wrap: wrap
+}
+
+#swing {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 8%;
+    top: 550px;
+    display: flex;
+    flex-wrap: wrap
+
+}
+#nopare {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 8%;
+    top: 950px;
+    display: flex;
+    flex-wrap: wrap
+
+}
+#ruido{ 
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    right: 8%;
+    top: 950px;
+    display: flex;
+    flex-wrap: wrap
+}
+#amsterdam {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    right: 8%;
+    top: 1350px;
+    display: flex;
+    flex-wrap: wrap
+}
+
+#botijasjunta {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 8%;
+    top: 1350px;
+    display: flex;
+    flex-wrap: nowrap
+}
+#paniko {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 8%;
+    top: 1750px;
+    display: flex;
+    flex-wrap: nowrap
+}
+#nomades {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    right: 8%;
+    top: 1750px;
+    display: flex;
+    flex-wrap: nowrap
+}
+
+
+
+
+  #neichor {
+    height: 300px;
+    width: 300px;position: absolute;
+    top: 150px; 
+    left: 8%;
+    display: flex;
+    flex-wrap: wrap
+  
+  }
+
+#nacho {
+    height: 300px;
+    width: 300px;position: absolute;
+    top: 150px; 
+    left: 40%; 
+    display: flex;
+    flex-wrap: wrap
+   
+}
+#luccio {
+    height: 300px;
+    width: 300px;position: absolute;
+    top: 150px; 
+    left: 72%;  
+    display: flex;
+    flex-wrap: wrap
+    
+}
+#luca {
+    height: 300px;
+    width: 300px;position: absolute;
+    top: 550px; 
+    left: 72%;   display: flex;
+    flex-wrap: wrap
+}
+#leite {
+    height: 300px;
+    width: 300px;position: absolute;
+    top: 550px; 
+    left: 40%;
+    display: flex;
+    flex-wrap: wrap
+}
+#kenma {
+    height: 300px;
+    width: 300px;position: absolute;
+    top: 550px; 
+    left: 8%;
+    display: flex;
+    flex-wrap: wrap
+}
+#justino {
+    height: 300px;
+    width: 300px;position: absolute;
+    top: 950px; 
+    left: 8%;  display: flex;
+    flex-wrap: wrap
+}
+#juanma {
+    height: 300px;
+    width: 300px;position: absolute;
+    top: 950px; 
+    left: 40%;  display: flex;
+    flex-wrap: wrap
+}
+#gervi {
+    height: 300px;
+    width: 300px;position: absolute;
+    top: 950px; 
+    left: 72%;
+    display: flex;
+    flex-wrap: wrap
+}
+#caba {
+    height: 300px;
+    width: 300px;position: absolute;
+    top: 1350px; 
+    left: 72%;
+    display: flex;
+    flex-wrap: wrap
+}
+
+#burgui {
+    height: 300px;
+    width: 300px;position: absolute;
+    top: 1350px; 
+    left: 8%;
+    display: flex;
+    flex-wrap: wrap
+}
+#nmdlogo {
+    height: 300px;
+    width: 300px;position: absolute;
+    top: 1350px; 
+    left: 40%;
+    display: flex;
+    flex-wrap: wrap
+}
+
+
+
+
+
+#INTEGRANTES {
+    color: rgb(255, 0, 0);
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: auto;
+    text-align: center;
+}
+#somosesto {
+    color: rgb(255, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    text-align: center;
+   margin-top:  1650px;
+}
+/* styles.css */
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+   
+    margin-top: 50px;
+}
+
+video {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin: -100px;
+}
+#eventojunta {
+    color: rgb(255, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    text-align: center;
+   margin-top: 10%;
+}
+#imagen1 {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    right: 8%;; 
+    top: 2600px;
+    display: flex;
+    flex-wrap: wrap
+}
+#imagen2 {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 8%;; 
+    top: 2600px;
+    display: flex;
+    flex-wrap: wrap
+}
+#imagen3 {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 8%;; 
+    top: 3000px;
+    display: flex;
+    flex-wrap: wrap
+}
+#imagen4 {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    right:  8%;; 
+    top: 3000px;
+    display: flex;
+    flex-wrap: wrap
+}
+#imagen5 {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    right:  8%;; 
+    top: 3400px;
+    display: flex;
+    flex-wrap: wrap
+}
+#imagen6 {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left:  8%;; 
+    top: 3400px;
+    display: flex;
+    flex-wrap: wrap
+}
+#imagen7 {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    right:  8%;; 
+    top: 3800px;
+    display: flex;
+    flex-wrap: wrap
+}
+#imagen8{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+   left :  8%;; 
+    top: 3800px;
+    display: flex;
+    flex-wrap: wrap
+}
+
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #000;
+    color: #fff;
+}
+
+header {
+    background-color: #ff0000;
+    text-align: center;
+    padding: 20px;
+}
+
+
+header h1 {
+    margin: 0;
+    font-size: 300%;
+    color: #fff;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+    
+
+
+nav ul {
+    list-style: none;
+    margin: 10px 0 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 3%;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000;
+    background-color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: #ffdddd;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    margin: 20px 0;
+}
+
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+}
+
+.image-grid img {
+    width: 100%;
+    border: 2px solid #ff0000;
+    border-radius: 10px;
+}
+
+.button {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #ff0000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #cc0000;
+}
+
+footer {
+    background-color: #333;
+    text-align: center;
+    padding: 10px 0;
+}
+#queesnmd{
+ text-align: center;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;   
+ color: #cc0000;
+ font-size: 250%;
+flex-wrap: wrap;
+}
+#texto1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+width: 90%; 
+  margin: 0 auto; 
+  flex-wrap: wrap;
+  color: #000;
+  background-color: #fff5f5;
+      border: 3px solid #ff0000;
+      box-sizing: border-box;
+}
+#queesjunta{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;   
+    color: #cc0000;
+    font-size: 250%;
+   flex-wrap: wrap;  
+
+   }
+
+#texto2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+width: 90%; 
+  margin: 0 auto; 
+  flex-wrap: wrap;
+  color: #000;
+  background-color: #ffffff;
+      border: 3px solid #ff0000;
+      box-sizing: border-box;
+}
+
+#punto {
+    color:#000;
+}
+/* Contenedor principal del formulario */
+.contact-form {
+    background-color: #fff;
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    margin-top: 10%;
+}
+
+/* Título del formulario */
+.contact-form h2 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 25px;
+}
+
+/* Contenedor de cada campo de entrada */
+.input-container {
+    margin-bottom: 20px;
+}
+
+/* Estilo para los campos de entrada */
+.input-container input, 
+.input-container textarea {
+    width: 100%;
+    padding: 15px;
+    border: 2px solid #ddd;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Efecto de enfoque (focus) para los campos */
+.input-container input:focus, 
+.input-container textarea:focus {
+    border-color: #e40707;
+    box-shadow: 0 0 8px rgba(76, 175, 80, 0.4);
+}
+
+/* Estilo para el botón de envío */
+button {
+    width: 100%;
+    padding: 15px;
+    background-color: #eb0f0f;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 6px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+/* Efecto hover para el botón */
+button:hover {
+    background-color: #ff0000;
+}
